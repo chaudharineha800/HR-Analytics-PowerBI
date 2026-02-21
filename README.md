@@ -42,19 +42,19 @@ HR dataset containing employee demographics, salary, performance, and attrition 
 
 ### Attrition Analysis
 
-![Attrition](Attrition Analysis.png)
+![Attrition](Attrition_Analysis.png)
 
 ### Salary Insights
 
-![Salary](Salary & Job Insights.png)
+![Salary](Salary_&_Job_Insights.png)
 
 ### Experience & Performance
 
-![Experience](Experience & Performance.png)
+![Experience](Experience_&_Performance.png)
 
 ### Insights Page
 
-![Insights](HR Insights & Recommendations.png)
+![Insights](HR_Insights_&_Recommendations.png)
 
 ---
 
