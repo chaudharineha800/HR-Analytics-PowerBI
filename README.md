@@ -46,7 +46,7 @@ HR dataset containing employee demographics, salary, performance, and attrition 
 
 ### Salary Insights
 
-![Salary](Salary_&_ob_Insights.png)
+![Salary](Salary_&_Job_Insights.png)
 
 ### Experience & Performance
 
