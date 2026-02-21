@@ -38,7 +38,7 @@ HR dataset containing employee demographics, salary, performance, and attrition 
 
 ### Overview
 
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### Attrition Analysis
 
