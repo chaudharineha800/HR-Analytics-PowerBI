@@ -69,6 +69,6 @@ HR dataset containing employee demographics, salary, performance, and attrition 
 
 ## 👩‍💻 Author
 
-Your Name
+Your Name: Neha Chaudhari
 
 Aspiring Data Analyst
